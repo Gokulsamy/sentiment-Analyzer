@@ -1,0 +1,21 @@
+text,sentiment
+i love this product,positive
+this is amazing,positive
+the service is excellent,positive
+i am very happy,positive
+the food was delicious,positive
+i hate this product,negative
+this is terrible,negative
+the service is awful,negative
+i am very disappointed,negative
+the food was horrible,negative
+it is okay,neutral
+the product is average,neutral
+nothing special,neutral
+the package arrived today,neutral
+the meeting starts at ten,neutral
+absolutely fantastic,positive
+worst experience ever,negative
+the result is normal,neutral
+i highly recommend this,positive
+this was a waste of money,negative
